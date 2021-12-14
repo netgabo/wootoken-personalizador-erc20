@@ -1,0 +1,59 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Customize ERC20 Currency\n"
+"POT-Creation-Date: 2021-12-06 16:51-0300\n"
+"Last-Translator: Gabriel Estrada <netgabo@gmail.com>\n"
+"Language-Team: Gabriel Estrada <netgabo@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wootoken-personalizador-erc20.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: wootoken-personalizador-erc20.php:59
+#: wootoken-personalizador-erc20.php:121
+msgid "WooToken Personalizador de moneda"
+msgstr ""
+
+#: wootoken-personalizador-erc20.php:69
+msgid "Configuración de moneda"
+msgstr ""
+
+#: wootoken-personalizador-erc20.php:76
+msgid "Nombre de la moneda"
+msgstr ""
+
+#: wootoken-personalizador-erc20.php:84
+msgid "Símbolo de moneda"
+msgstr ""
+
+#: wootoken-personalizador-erc20.php:112
+msgid "Configura tu moneda a continuación."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://www.solucionesenblockchain.copm/wootoken-personalizador-de-moneda/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Un plugin que sirve para agregar una nueva moneda para el soporte ERC20."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Gabriel Estrada / Soluciones en Blockchain"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.solucionesenblockchain.com/"
+msgstr ""
