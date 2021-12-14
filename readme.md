@@ -4,7 +4,7 @@
 
 ## Instalación
 
-1. Descargue el complemento de [Complemento de WordPress] (https://wordpress.org/plugins/wootoken-personalizador/)
+1. Descargue el complemento de (https://github.com/netgabo/wootoken-personalizador-erc20)
 2. Descarga desde Github. 
 
 ## Uso
